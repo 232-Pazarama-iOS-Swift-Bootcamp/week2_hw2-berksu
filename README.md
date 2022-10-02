@@ -1,8 +1,6 @@
 # Calculator
 
-In this porject, our aim is to develop a calculator that has some scientific calculator specifications. My calculator has 2 different UI according to device orientation like Apple's calculator. In portrait mode user can only see the basic operands and in landscape mode user can see 5 more operands. This application can be used on different devices which have different sizes like iPad Pro, iPhone 14 Pro and iPhone SE. 
-
-During this project, I learnt Size-Class-Specific Layout, MVC, device orintation change detection etc.
+In this project, our aim was to develop a calculator that has some scientific mathematical operations. My calculator has 2 different UI according to device orientation like Apple's calculator. In portrait mode user can only see the basic operations(addition, division etc.) and in landscape mode user can see more complex mathematical operations. This application can be used on different devices which have different sizes like iPad Pro, iPhone 14 Pro and iPhone SE. 
 
 Gif:
 <p align="center">
