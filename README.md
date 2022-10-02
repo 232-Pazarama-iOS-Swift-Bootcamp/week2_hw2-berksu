@@ -17,7 +17,7 @@ Different device screenshots are in below:
 <img src="screenshots/iphone14Pro_portrait.png" alt="drawing" width="300"/>
 
 
-<img src="screenshots/iphone14Pro_landscape.png" alt="drawing" width="700"/>
+<img src="screenshots/iPhone14pro_landscape.png" alt="drawing" width="700"/>
 </p>
 
 **iPhone SE:**
@@ -28,7 +28,7 @@ Different device screenshots are in below:
 <img src="screenshots/iphoneSE_landscape.png" alt="drawing" width="700"/>
 </p>
 
-**iPhone SE:**
+**iPad Pro:**
 <p align="center">
 <img src="screenshots/ipad_portrait.png" alt="drawing" width="300"/>
 
