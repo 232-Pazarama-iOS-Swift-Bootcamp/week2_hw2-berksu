@@ -1,3 +1,44 @@
+# Calculator
+
+In this porject, our aim is to develop a calculator that has some scientific calculator specifications. My calculator has 2 different UI according to device orientation like Apple's calculator. In portrait mode user can only see the basic operands and in landscape mode user can see 5 more operands. This application can be used on different devices which have different sizes like iPad Pro, iPhone 14 Pro and iPhone SE. 
+
+During this project, I learnt Size-Class-Specific Layout, MVC, device orintation change detection etc.
+
+Gif:
+<p align="center">
+<img src="screenshots/iphoneSE.gif" alt="drawing" width="200"/>
+</p>
+
+
+Different device screenshots are in below:
+
+**iPhone 14:**
+<p align="center">
+<img src="screenshots/iphone14Pro_portrait.png" alt="drawing" width="300"/>
+
+
+<img src="screenshots/iphone14Pro_landscape.png" alt="drawing" width="700"/>
+</p>
+
+**iPhone SE:**
+<p align="center">
+<img src="screenshots/iphoneSE_portrait.png" alt="drawing" width="300"/>
+
+
+<img src="screenshots/iphoneSE_landscape.png" alt="drawing" width="700"/>
+</p>
+
+**iPhone SE:**
+<p align="center">
+<img src="screenshots/ipad_portrait.png" alt="drawing" width="300"/>
+
+
+<img src="screenshots/ipad_landscape.png" alt="drawing" width="700"/>
+</p>
+
+
+
+
 
 # Pazarama iOS Bootcamp - Hafta 2 - Ödev  
  
